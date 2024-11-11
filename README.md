@@ -9,7 +9,8 @@ Hello and welcome! I am **Sebastián Peña Ford**, a dedicated Data Scientist wi
 ## Quick Overview
 
 - **Location**: Santiago, Chile
-- **Profession** :computer: : Data Scientist Enthusiast, Development Engineer at Power Train Technologies
+- **Profession** :computer: : Mechanical Engineer, Data Analyst and Data Scientist Enthusiast.
+- **Current Job**: Development Engineer at Power Train Technologies, Chile.
 
 ---
 
