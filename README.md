@@ -1,16 +1,30 @@
-## Hi there 👋
+## 
 
-<!--
-**penaford94/penaford94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Sebastián welcome to my Professional Profile
 
-Here are some ideas to get you started:
+Hello and welcome! I am **Sebastián Peña Ford**, a dedicated Data Scientist with a background in Mechanical Engineering and a strong passion for technology, innovation, and continuous learning. I have experience working in interdisciplinary teams on various international projects, with skills that include project management, quality control, mechanical design, and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Quick Overview
+
+- **Location**: Santiago, Chile
+- **Profession** :computer: : Data Scientist Enthusiast, Development Engineer at Power Train Technologies
+
+---
+
+## Let's Connect!
+
+Feel free to check out my work or reach out through the following platforms:
+
+- **LinkedIn**: [Sebastián Peña Ford](https://www.linkedin.com/in/sebastian-pena-ford/)
+- **GitHub**: [Visit my GitHub](https://github.com/your-github-handle) *(penaford94)*
+
+I am always open to collaborations, discussions, and learning opportunities in the field of data science and engineering.
+
+---
+
+![Website] (https://img.shields.io/badge/penaford94.com-up-green?style=for-the-badge)
+
+---
+Thank you for visiting my profile! Let's innovate and grow together.
