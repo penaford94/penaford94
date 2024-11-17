@@ -13,13 +13,8 @@ Hello and welcome! I am **Sebastián Peña Ford**, a dedicated Data Scientist wi
 ---
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!--RECENT ACTIVITY:last_update-->
-Last Updated: Saturday, November 16th, 2024, 21:23:00 PM
-<!--RECENT ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 
 ---
