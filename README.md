@@ -14,7 +14,15 @@ Hello and welcome! I am **Sebastián Peña Ford**, a dedicated Data Scientist wi
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [penaford94/penaford94](https://github.com/penaford94/penaford94)<br>
+2. ⬆️ Pushed 1 commit(s) to [penaford94/penaford94](https://github.com/penaford94/penaford94)<br>
+3. ⬆️ Pushed 1 commit(s) to [penaford94/penaford94](https://github.com/penaford94/penaford94)<br>
+4. ⬆️ Pushed 1 commit(s) to [penaford94/penaford94](https://github.com/penaford94/penaford94)<br>
+5. ⬆️ Pushed 1 commit(s) to [penaford94/miPrimerRepo](https://github.com/penaford94/miPrimerRepo)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, November 17th, 2024, 12:50:28 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
