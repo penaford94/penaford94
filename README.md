@@ -14,14 +14,9 @@ Hello and welcome! I am **Sebastián Peña Ford**, a dedicated Data Scientist wi
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [penaford94/demo-ci-cd](https://github.com/penaford94/demo-ci-cd)<br>
-2. ⬆️ Pushed undefined commit(s) to [penaford94/demo-ci-cd](https://github.com/penaford94/demo-ci-cd)<br>
-3. ⬆️ Pushed undefined commit(s) to [penaford94/demo-ci-cd](https://github.com/penaford94/demo-ci-cd)<br>
-4. ⬆️ Pushed undefined commit(s) to [penaford94/demo-ci-cd](https://github.com/penaford94/demo-ci-cd)<br>
-5. ⬆️ Pushed undefined commit(s) to [penaford94/github_actions](https://github.com/penaford94/github_actions)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 21st, 2026, 1:08:20 AM
+Last Updated: Saturday, February 21st, 2026, 12:25:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
