@@ -15,13 +15,14 @@ Hello and welcome! I am **Sebastián Peña Ford**, a dedicated Data Scientist wi
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_2](https://github.com/penaford94/desafio_js_2)<br>
-2. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_2](https://github.com/penaford94/desafio_js_2)<br>
-3. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_1](https://github.com/penaford94/desafio_js_1)<br>
-4. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_1](https://github.com/penaford94/desafio_js_1)<br>
+1. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_3](https://github.com/penaford94/desafio_js_3)<br>
+2. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_3](https://github.com/penaford94/desafio_js_3)<br>
+3. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_2](https://github.com/penaford94/desafio_js_2)<br>
+4. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_2](https://github.com/penaford94/desafio_js_2)<br>
+5. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_js_1](https://github.com/penaford94/desafio_js_1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 13th, 2026, 1:48:36 AM
+Last Updated: Monday, July 13th, 2026, 2:03:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
