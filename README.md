@@ -15,14 +15,14 @@ Hello and welcome! I am **Sebastián Peña Ford**, a dedicated Data Scientist wi
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_react_7](https://github.com/penaford94/desafio_react_7)<br>
-2. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_react_7](https://github.com/penaford94/desafio_react_7)<br>
+1. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_react_8](https://github.com/penaford94/desafio_react_8)<br>
+2. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_react_8](https://github.com/penaford94/desafio_react_8)<br>
 3. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_react_7](https://github.com/penaford94/desafio_react_7)<br>
 4. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_react_7](https://github.com/penaford94/desafio_react_7)<br>
 5. ⬆️ Pushed undefined commit(s) to [penaford94/desafio_react_7](https://github.com/penaford94/desafio_react_7)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 3rd, 2026, 4:32:40 AM
+Last Updated: Tuesday, November 3rd, 2026, 6:47:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
